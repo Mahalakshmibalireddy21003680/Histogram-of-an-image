@@ -78,13 +78,14 @@ cv2.destroyAllWindows()
 ## Output:
 ### Input Grayscale Image and Color Image
 <br>
-![e1](https://user-images.githubusercontent.com/93427286/167076217-7059475b-af4c-4e34-9711-79f91873842d.png)
-
+![e1](https://user-images.githubusercontent.com/93427286/167076613-d0c54c74-0950-44d4-b132-c1fd9fa0424b.png)
 <br>
+
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
 <br>
+
 
 ![e2](https://user-images.githubusercontent.com/93427286/167076247-2836e37c-e79f-4518-a01f-6568f497a588.png)
 
@@ -93,6 +94,7 @@ cv2.destroyAllWindows()
 ### Histogram Equalization of Grayscale Image
 <br>
 ![e3](https://user-images.githubusercontent.com/93427286/167076273-1ec0ee2f-3bd2-429e-b259-d5e31d3100b3.png)
+<br>
 ![e4](https://user-images.githubusercontent.com/93427286/167076282-b159d916-1361-4f9e-aa3e-3b8477aeb947.png)
 <br>
 
